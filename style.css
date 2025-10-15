@@ -1,0 +1,18 @@
+.mainText,
+.title {
+  background-color: green;
+  color: white;
+}
+
+.important.mainText {
+  font-size: 12px;
+}
+
+.important.title { 
+  font-size: 24px;
+}
+
+.references .mainText {
+  background-color: grey !important;
+  font-size: 10px;
+}
